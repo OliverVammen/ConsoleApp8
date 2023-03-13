@@ -17,6 +17,7 @@ namespace ConsoleApp8
             Console.WriteLine();
             Console.WriteLine("BLM");
             Console.Read();
+            Console.WriteLine();
         }
     }
 }
