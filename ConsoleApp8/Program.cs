@@ -16,6 +16,7 @@ namespace ConsoleApp8
             Console.WriteLine("Hej vennerne");
             Console.WriteLine("God Aften");
             Console.WriteLine("OMG BLOGGEN! JEG ER GRAVID BLOGGEN!");
+            Console.ReadLine();
         }
     }
 }
