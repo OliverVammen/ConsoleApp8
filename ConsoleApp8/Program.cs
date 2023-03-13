@@ -14,6 +14,7 @@ namespace ConsoleApp8
             Console.WriteLine("Jon har en meget mikro lille tissemand");
             Console.WriteLine("LIGHT WEIGHT BABY");
             Console.WriteLine("Hey bloggen!");
+            Console.WriteLine("LIIIIIIIIIIIIIIIIIIIIIIIGHT WEEEEEEEEEEEEEEEIGHT BABYYYYYYYYYYYYYYYY");
         }
     }
 }
