@@ -21,7 +21,7 @@ namespace ConsoleApp8
             Console.WriteLine("YourLifeMatter");
             Console.WriteLine("Ole har også en meget mikro lille tissemand, det har jeg  selv set");
             Console.ReadLine();
-            Console.WriteLine("BLDM, Black Large Dicks Matter");
+            Console.WriteLine("BLDM, Black Large Dicks Matter and can't be outdone");
         }
     }
 }
