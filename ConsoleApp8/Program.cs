@@ -18,7 +18,7 @@ namespace ConsoleApp8
             Console.WriteLine("BLM");
             Console.Read();
             Console.WriteLine();
-            Console.WriteLine("NoLifeMatter");
+            Console.WriteLine("YourLifeMatter");
             Console.WriteLine("Ole har også en meget mikro lille tissemand, det har jeg  selv set");
             Console.ReadLine();
         }
