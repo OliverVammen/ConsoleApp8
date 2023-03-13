@@ -13,7 +13,7 @@ namespace ConsoleApp8
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jon har en meget mikro lille tissemand");
             Console.WriteLine("LIGHT WEIGHT BABY");
-            Console.WriteLine("Hej vennerne");
+            Console.WriteLine("Hey bloggen!");
         }
     }
 }
