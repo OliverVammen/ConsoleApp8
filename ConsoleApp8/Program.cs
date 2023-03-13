@@ -16,6 +16,7 @@ namespace ConsoleApp8
             Console.WriteLine("Hey bloggen!");
             Console.WriteLine();
             Console.WriteLine("BLM");
+            Console.Read();
         }
     }
 }
