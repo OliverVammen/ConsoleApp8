@@ -15,6 +15,7 @@ namespace ConsoleApp8
             Console.WriteLine("LIGHT WEIGHT BABY");
             Console.WriteLine("Hej vennerne");
             Console.WriteLine("God Aften");
+            Console.WriteLine("OMG BLOGGEN! JEG ER GRAVID BLOGGEN!");
         }
     }
 }
