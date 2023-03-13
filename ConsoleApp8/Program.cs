@@ -12,6 +12,7 @@ namespace ConsoleApp8
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Marcus har en meget lille tissemand");
+            Console.WriteLine("LIGHT WEIGHT BABY");
         }
     }
 }
