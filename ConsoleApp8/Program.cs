@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ConsoleApp8
@@ -15,6 +16,7 @@ namespace ConsoleApp8
             Console.WriteLine("LIGHT WEIGHT BABY");
             Console.WriteLine("Hey bloggen!");
             Console.WriteLine("NoLifeMatter");
+            Console.WriteLine("Ole har også en meget mikro lille tissemand, det har jeg  selv set");
 
         }
     }
