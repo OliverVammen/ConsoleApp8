@@ -11,7 +11,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Marcus har en lille tissemand");
+            Console.WriteLine("Marcus har en meget lille tissemand");
         }
     }
 }
