@@ -15,7 +15,8 @@ namespace ConsoleApp8
             Console.WriteLine("LIGHT WEIGHT BABY");
             Console.WriteLine("Hey bloggen!");
             Console.WriteLine("NoLifeMatter");
-
+            Console.WriteLine("Ole har også en meget mikro lille tissemand, det har jeg  selv set");
+            Console.ReadLine();
         }
     }
 }
